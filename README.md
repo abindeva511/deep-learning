@@ -1,0 +1,1 @@
+The code is designed to analyze an image and determine whether it contains a cat. Using simple logistic regression, it will predict with a certain level of accuracy if the subject of the image is indeed a cat.
